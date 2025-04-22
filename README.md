@@ -1,4 +1,3 @@
-
 # 🧠 Jarvis Web Cortex
 
 **Asistente de voz inteligente y privado**, basado en modelos locales de lenguaje (LLMs), con reconocimiento de voz, autenticación JWT, y despliegue listo para producción.
@@ -104,3 +103,8 @@ MIT © [Web Conceptos](https://github.com/webconceptos)
 
 📧 fgarcia@webconceptos.com | ☎️ +51 985 670 257  
 🔗 [webconceptos.com](https://webconceptos.com)
+=======
+<p align="center">
+  <img src="jarvis-banner.svg" alt="Jarvis Web Banner" width="100%" />
+</p>
+
