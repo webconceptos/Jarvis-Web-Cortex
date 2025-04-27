@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2-binary
+redis
+passlib
+python-dotenv
+edge-tts
+aiofiles
+requests
+python-multipart

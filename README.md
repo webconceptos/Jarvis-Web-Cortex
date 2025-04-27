@@ -105,6 +105,6 @@ MIT © [Web Conceptos](https://github.com/webconceptos)
 🔗 [webconceptos.com](https://webconceptos.com)
 =======
 <p align="center">
-  <img src="jarvis-banner.svg" alt="Jarvis Web Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/webconceptos/Jarvis-Web-Cortex/main/jarvis-banner.svg" alt="Jarvis Web Banner" width="100%" />
 </p>
 
