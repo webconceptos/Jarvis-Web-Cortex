@@ -21,7 +21,8 @@ function JarvisLoginPage({ onLoginSuccess }) {
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
             body: new URLSearchParams({ username, password }),
           };
-
+      console.log("🚀 [FRONTEND] Enviando request:", { url, options });
+      
       const response = await fetch(url, options);
       const data = await response.json();
 
